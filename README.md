@@ -1,4 +1,4 @@
-# Study Resources
+# Study Resources 📚
 
 A list of resources that I have found useful
 
@@ -9,13 +9,13 @@ A list of resources that I have found useful
 - [Mobile](#mobile)
   - [React-Native](#react-native)
 
-### Amazon Web Services
-#### DynamoDB
+## Amazon Web Services
+### DynamoDB
 
 [Single-Table Design with DynamoDB - Alex DeBrie, AWS Data Hero](https://www.youtube.com/watch?v=BnDKD_Zv0og)
 
 [List of resources for DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) by Alex DeBrie
 
 
-### Mobile 
-#### React-Native
+## Mobile 
+### React-Native

@@ -16,6 +16,7 @@ A list of resources that I have found useful
 
 [List of resources for DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) by Alex DeBrie
 
+[The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design)  by Alex DeBrie
 
 ## Mobile 
 ### React-Native

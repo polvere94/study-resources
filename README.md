@@ -8,7 +8,7 @@ A list of resources that I have found useful
   - [DynamoDB](#dynamodb)
 - [Mobile](#mobile)
   - [React-Native](#react-native)
-
+  
 ## Amazon Web Services
 ### DynamoDB
 
@@ -20,3 +20,5 @@ A list of resources that I have found useful
 
 ## Mobile 
 ### React-Native
+
+[Immer - update pattern](https://immerjs.github.io/immer/update-patterns/)
